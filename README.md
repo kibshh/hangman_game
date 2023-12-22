@@ -2,15 +2,6 @@
 
 Welcome to the Hangman Game! Try to guess the word before the hangman is fully drawn. Have fun and challenge yourself with a variety of words!
 
- _    _                                         
-| |  | |                                        
-| |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __  
-|  __  |/ _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
-| |  | | (_| | | | | (_| | | | | | | (_| | | | |
-|_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                    __/ |                        
-                   |___/
-
 ## How to Play
 
 1. Run the game using a Python interpreter.
@@ -29,3 +20,16 @@ Welcome to the Hangman Game! Try to guess the word before the hangman is fully d
 
    ```bash
    git clone https://github.com/kibshh/hangman_game.git
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Thank you for playing our Hangman Game!
+
+*By Kibshh*
+
